@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Dumastodo</string>
+    <string name="app_name">RonyTodo</string>
     <string name="add">Add</string>
     <string name="add_item">Add a new item…</string>
 
